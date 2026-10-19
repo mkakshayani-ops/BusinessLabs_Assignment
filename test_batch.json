@@ -1,0 +1,1162 @@
+{
+  "results": [
+    {
+      "article_id": "5000558357",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+      "title": "Can I Send A Mass Email Campaign Using Brilliant Directories?",
+      "headings": [],
+      "body_text": "Can I Send A Mass Email Campaign Using Brilliant Directories?\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558357\nThe built-in email system is designed for emailing active members who have requested to receive emails from the site. A common example would be sending a monthly newsletter to members who have opted in to receive updates.\nThe email system also sends transactional emails, such as new member signup notifications, credit card update notices, lead emails, and other system-generated messages related to member activity.\nSending mass unsolicited emails to Claim Listings or an imported contact list may be considered spam. This can violate email compliance laws, damage the sending reputation of your domain, and result in future emails being blocked or blacklisted.\nIn some cases, sending spam messages can also negatively impact other sites on the same server and may lead to account restrictions or termination with Brilliant Directories.",
+      "images": [],
+      "content_hash": "30a279b447e8502df51d6aa845cce53611d1d4524c51e5ff2d9003ebff534b33",
+      "ingested_at": "2026-10-17T11:48:24.417482+00:00"
+    },
+    {
+      "article_id": "5000558363",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+      "title": "Emails » Email Accounts",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Before starting"
+        },
+        {
+          "level": "h2",
+          "text": "Open the email accounts"
+        },
+        {
+          "level": "h2",
+          "text": "Create and manage mailboxes"
+        },
+        {
+          "level": "h2",
+          "text": "When the previous Email Accounts page appears"
+        },
+        {
+          "level": "h2",
+          "text": "Additional notes"
+        }
+      ],
+      "body_text": "Emails » Email Accounts\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558363\nEmail accounts (mailboxes) at the website's own domain, such as\nsupport@example.com\n, are created and managed in\nSettings > Domain Manager > Mailboxes\n. The\nEmails > Email Accounts\nmenu item opens that tab directly.\nBefore starting\nConnect a custom domain to the website. A free\ndirectoryup.com\naddress has no mailboxes of its own.\nConfirm which provider receives the domain's email. Mailboxes on the website's hosting receive new mail only when the domain's MX records point to them.\nOpen the email accounts\nIn the admin, open\nEmails\n.\nClick\nEmail Accounts\n.\nDomain Manager opens on the\nMailboxes\ntab, which lists the mailboxes, their storage use, and where the domain's email is delivered.\nEmail Accounts in the Emails menu (1) opens Domain Manager on the Mailboxes tab (2).\nCreate and manage mailboxes\nOn the\nMailboxes\ntab,\nAdd a mailbox\ncreates a new mailbox with its password and storage limit. Each mailbox in the list offers\nOpen webmail\n,\nSet up\nfor the settings to enter in Outlook, Apple Mail, or a phone, and\nMore\nfor changing the password or storage limit or deleting the mailbox. The full steps are in\nSettings » Domain Manager » Mailboxes and Email Routing\n.\nGeneric addresses such as\ninfo@\nare more often treated as spam by receiving mail systems. Addresses such as\nsupport@\n,\nadmin@\n, or\ncontact@\nare usually a better choice.\nWhen the previous Email Accounts page appears\nThe previous\nManage Email Accounts\npage still opens in two cases:\nThe website uses a free\ndirectoryup.com\naddress. The page explains that a live domain name must be connected before email accounts can be set up, and offers\nConnect Live Domain\n. See\nHow to Connect a Domain to a Brilliant Directories Website\n.\nThe administrator's role does not include access to the Domain Manager's\nMailboxes\ntab.\nOn a free directoryup.com address, Email Accounts shows the previous page with Connect Live Domain (1).\nAdditional notes\nEmail replies do not have a separate reply-to address. Responses go to the address that sent the original message.\nTo read a mailbox in the browser, see\nHow To Access Webmail Through the Admin Area\n.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588",
+          "alt": "Admin Emails menu with Email Accounts highlighted (1) and Domain Manager opening on its Mailboxes tab (2).",
+          "position": 0,
+          "nearby_text": "In the admin, open Emails . Click Email Accounts . Domain Manager opens on the Mailboxes tab, which lists the mailboxes, their storage use, and where the domain's email is delivered."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358595/original/8ZBIk7xdczVdG2JjzsZeChbSSdKHPbks4Q.png?1791318600",
+          "alt": "Manage Email Accounts message saying a live domain must be connected first, with the Connect Live Domain button highlighted.",
+          "position": 1,
+          "nearby_text": "The website uses a free directoryup.com address. The page explains that a live domain name must be connected before email accounts can be set up, and offers Connect Live Domain . See How to Connect a "
+        }
+      ],
+      "content_hash": "30d6002bd45442029a2ea402e30e2980aaeb0ac3b4c7eaaac826c95bd49265aa",
+      "ingested_at": "2026-10-17T11:48:25.809333+00:00"
+    },
+    {
+      "article_id": "5000558373",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+      "title": "Email Forwarders",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Email Forwarders Not Supported"
+        },
+        {
+          "level": "h2",
+          "text": "Recommendations to Replace Email Forwarders"
+        },
+        {
+          "level": "h3",
+          "text": "Gmail"
+        },
+        {
+          "level": "h3",
+          "text": "Thunderbird"
+        },
+        {
+          "level": "h3",
+          "text": "Apple Mail"
+        },
+        {
+          "level": "h3",
+          "text": "Microsoft"
+        }
+      ],
+      "body_text": "Email Forwarders\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558373\nEmail Forwarders Not Supported\nIMPORTANT:\nThe Email Forwarders functionality has been removed from our implementation of cPanel as of June, 2024.\nDue to the way this functionality works in cPanel, it caused several issues for users. Some of these issue included:\nNot all emails being forwarded properly based on the domain settings of the email sender and the receiver of the forwarded email\nSendgrid blocking emails from being sent to accounts hosted in cPanel, preventing the Admins of sites from getting notification emails\nThe domain reputation and reputation of the server being harmed when SPAM emails are forwarded through this system\nWhile email forwarders can no longer be added or modified, any existing email forwarders will remain in place.  If an email forwarder needs to be removed from a site, please submit a ticket to our Support Team for assistance.\nRecommendations to Replace Email Forwarders\nThe recommended alternative for using email forwarders is to use an email app that can send and receive emails from multiple email accounts in one place:\nGmail\nPaid\nGoogle Workspace\nemail accounts can connect to 3rd party email accounts to send and receive emails.  For this, the MX record would need to be pointed to Google workspace, for more information:\nHow To Change Email MX Records\nThunderbird\nThis is a free desktop email application from Mozilla, the makers of the FireFox browser. Thunderbird offers an app for Windows, MacOS, and Linux operating systems.\nApple Mail\nApple includes a free email client that can connect to 3rd party email accounts for all of their devices and operating systems.\nMicrosoft\nWindows Mail\nand\nMicrosoft Outlook\n- Microsoft includes the Windows Mail and Outlook for Windows applications for free on devices using Windows 10 or newer. Both of these applications can connect to 3rd party email accounts.",
+      "images": [],
+      "content_hash": "fac777f31e4752f808d8144ccdbbaa1fc60db696308e43a30b4b635a5dba1bb3",
+      "ingested_at": "2026-10-17T11:48:27.796021+00:00"
+    },
+    {
+      "article_id": "5000558389",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab",
+      "title": "Settings » General Settings » Social Media Tab",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Social Media Accounts"
+        },
+        {
+          "level": "h3",
+          "text": "Visual Guide of the Social Media Links tab"
+        },
+        {
+          "level": "h3",
+          "text": "1. Facebook"
+        },
+        {
+          "level": "h3",
+          "text": "2. Twitter"
+        },
+        {
+          "level": "h3",
+          "text": "3. LinkedIn"
+        },
+        {
+          "level": "h3",
+          "text": "4. Pinterest"
+        },
+        {
+          "level": "h3",
+          "text": "5. Instagram"
+        },
+        {
+          "level": "h3",
+          "text": "6. Youtube"
+        },
+        {
+          "level": "h3",
+          "text": "7. RSS Feed"
+        },
+        {
+          "level": "h3",
+          "text": "8. Tik Tok"
+        },
+        {
+          "level": "h3",
+          "text": "9. Whatsapp"
+        },
+        {
+          "level": "h3",
+          "text": "10. Snapchat"
+        },
+        {
+          "level": "h3",
+          "text": "Where Do These Links Appear?"
+        }
+      ],
+      "body_text": "Settings » General Settings » Social Media Tab\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558389\nThis article reviews links for the\nSocial Media\naccounts for the website,  members and visitors will be able to access the full spectrum of profiles available for the website and it helps link the social media world to the website\nSocial Media Accounts\nBelow is a full list of the\nSocial Media\naccounts linked to the website.\nImportant note:\nThe system will ask for absolute URLs. For example:\nfacebook.com\nwill\nnot\nbe accepted\nhttps://www.facebook.com\nwill be accepted\nVisual Guide of the Social Media Links tab\n1. Facebook\nAdd a link to the website's facebook account using the following format: https://www.facebook.com/CompanyFacebook\n2. Twitter\nAdd a link to the website's Twitter account using the following format:\nhttps://www.twitter.com/CompanyTwitter\n3. LinkedIn\nAdd a link to the website's LinkedIn account using the following format: https://www.linkedin.com/CompanyLinkedIn\n4. Pinterest\nAdd a link to the website's Pinterest account using the following format: https://www.pinterest.com/CompanyPinteres\n5. Instagram\nAdd a link to the website's Instagram account using the following format: https://www.instagram.com/CompanyInstagram\n6. Youtube\nAdd a link to the website's Youtube account using the following format: https://www.youtube.com/CompanyYouTube\n7. RSS Feed\nAdd a link to the website's RSS feed using the following format: https://www.yourwebsite.com/rss\n8. Tik Tok\nAdd a link to the website's TikTok account using the following format: https://www.tiktok.com/@name\n9. Whatsapp\nAdd a link to the website's WhatsApp account using the following format: https://wa.me/1XXXXXXXXXX\n10. Snapchat\nAdd a link to the website's Snapchat accout using the following format: https://www.snapchat.com/add/username\nWhere Do These Links Appear?\nInside the Footer Menu of the website:",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132171349/original/ScGFFTLRwpppX7RsyMTIz3RaD35rEBxnOA.png?1696295524",
+          "alt": null,
+          "position": 0,
+          "nearby_text": "Visual Guide of the Social Media Links tab"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12132162075/original/1UNijwTWHMGd6c0gwTZBva0OSvnTeXXyEA.png?1696281494",
+          "alt": null,
+          "position": 1,
+          "nearby_text": "Inside the Footer Menu of the website:"
+        }
+      ],
+      "content_hash": "9cdd63cdeb1447427a13774419b420384e7dba739ca2d89afae91a930d56dddb",
+      "ingested_at": "2026-10-17T11:48:29.148784+00:00"
+    },
+    {
+      "article_id": "5000558401",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+      "title": "How To Import Categories Via CSV File",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Step 1: Create The Category Structure in a CSV file"
+        },
+        {
+          "level": "h2",
+          "text": "Step 2: Import The Category Structure"
+        }
+      ],
+      "body_text": "How To Import Categories Via CSV File\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558401\nTo import a category structure via CSV file (useful for quickly importing large category structures), please follow the steps below for creating the file.\nThis can be used to import up to 3 levels of categories: Top Level Categories, Sub Level Categories, and Sub-Sub Level Categories (for a\ntotal of three tiers\n).\nStep 1: Create The Category Structure in a CSV file\nDownload the Category Structure Import Template (attached at the bottom of the article).\nOpen up the file and expand the width of the columns so all of the text can be seen in each one.\nColumn A\nwill have all of the Top-Level Categories\nColumn\nB\nwill have all of the Sub Categories (optional)\nColumn C\nwill have all of the Sub-Sub Categories (optional)\n4. Fill out the spreadsheet with the categories by replacing the placeholders in the template.\nStep 2: Import The Category Structure\nNavigate to\nMembers >> Member Categories\nselect Import Categories:\nThe button will lead to a new page where it is possible to import the file:\nCRITICAL WARNING:\nChecking the option to delete existing categories will permanently remove all current categories from the database. This action will also unassign all current members from their categories, requiring them to be manually recategorized or re-imported. Only check this box if starting a completely brand-new directory or performing a total category reset.\nUpload the file here.\nFind the Category Import template attached to this article.\nIMPORTANT NOTE: By default, all members can be listed in 1 Top Level / Main Category and multiple Sub Categories. However, there is a workaround\n:\nWorkaround: Members Selecting Multiple Top-Level Categories",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074693982/original/QORGDzC_aYpnRbZBCdD-Mnr1BdDKdexnWA.png?1583248842",
+          "alt": null,
+          "position": 0,
+          "nearby_text": "Download the Category Structure Import Template (attached at the bottom of the article). Open up the file and expand the width of the columns so all of the text can be seen in each one. Column A will "
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12074694409/original/_CpKps0VX60nBTIrY3r1GfXBvyjYylQJXg.png?1583249244",
+          "alt": null,
+          "position": 1,
+          "nearby_text": "4. Fill out the spreadsheet with the categories by replacing the placeholders in the template."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12171252789/original/c_8Lg6thRZqJ4vbTF83U2iteIZAplJLMxg.png?1764552502",
+          "alt": null,
+          "position": 2,
+          "nearby_text": "Navigate to Members >> Member Categories select Import Categories:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097399352/original/tIBlFCLyIiZTlHaEeqcG_95NyCvySXaDZg.png?1630013869",
+          "alt": null,
+          "position": 3,
+          "nearby_text": "The button will lead to a new page where it is possible to import the file:"
+        }
+      ],
+      "content_hash": "d58c7af322d6469fa41b8f9c5e27f3ad75ab2c4799492b6db0167a48ac99c3e7",
+      "ingested_at": "2026-10-17T11:48:30.627504+00:00"
+    },
+    {
+      "article_id": "5000558475",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+      "title": "How To Import Members Via CSV File",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Overview"
+        },
+        {
+          "level": "h2",
+          "text": "Downloading the File"
+        },
+        {
+          "level": "h2",
+          "text": "Add Categories to a CSV Import Spreadsheet"
+        },
+        {
+          "level": "h3",
+          "text": "Top Categories"
+        },
+        {
+          "level": "h3",
+          "text": "Sub Categories + Sub-Sub Categories"
+        },
+        {
+          "level": "h3",
+          "text": "Helpful Tips"
+        },
+        {
+          "level": "h2",
+          "text": "Import Existing Subscription & Billing Information"
+        },
+        {
+          "level": "h4",
+          "text": "Billing Cycle"
+        },
+        {
+          "level": "h2",
+          "text": "Import the File"
+        },
+        {
+          "level": "h2",
+          "text": "Geocode Members"
+        },
+        {
+          "level": "h3",
+          "text": "Import Profile Images (optional)"
+        },
+        {
+          "level": "h2",
+          "text": "Get Personal Assistance"
+        },
+        {
+          "level": "h2",
+          "text": "Important Notes"
+        }
+      ],
+      "body_text": "How To Import Members Via CSV File\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000558475\nOverview\nImporting members can be a bit of a tricky process due to the fact that all of the data entered must be simple, clean text (no formatting, line breaks, or other things that can break a CSV file), and the data must all be in the proper columns in order to import properly.\nTo start, here are some files that will help with understanding how the import process works:\nImport template with ALL fields and explanations of each field\nImport template with only the simple / basic required fields\nExample of a completed import file with ALL fields\nExample of a completed simple / basic import file\nThe template and example files that have \"\nALL fields\n\" included show all of the different fields that can be filled out for a member during import.\nHowever, not all imports will need to make use of all of these fields, so we also included a simple / basic version of each that has the most commonly used fields. Importing custom variables is also possible.\nDownloading the File\nDownload one of the CSV import templates shown above.\nIn\nrow 1\nof this file, one will see all of the headers required to import the data.\nMake sure not to edit the spelling of any of these headers\n, as doing so will cause the import to fail. In\nrows 2 to 4\nof this file, one will see an explanation of what kind of text should be added into each column (in the\nlisting_type\ncolumn, rows 2 and 3 show its only two values,\nCompany\nand\nIndividual\n).\nOnce the required content for each column is understood,\ndelete rows 2 to 4\nfrom the spreadsheet (if they are not removed, the explanations will be imported as members of the site!)\nEnter all of the member data into the correct columns\nDelete any empty columns from the spreadsheet - for example, if no data is entered in the Twitter column, that column can be deleted from the spreadsheet completely. This will reduce the size of the import file and speed up the import process.\nAdd Categories to a CSV Import Spreadsheet\nCategories go in 2 columns near the right side of the spreadsheet (columns AM and AN in the template with ALL fields) - \"\nprofession_name\n\" and \"\nservices\n\":\nTop Categories\nUnder \"\nprofession_name\n\" put the Top Level Category for the listing to be imported into. For example, if we were doing this for the Local Dessert Shops Directory then I could add “\nIce Cream Shop\n” in this column.\nThe Membership Plan Settings also allow to pre-assign the Top level category to all profiles in that membership plan. For more information on how to do this, refer to\nstep 2\nin the following\narticle\n.\nSub Categories + Sub-Sub Categories\nIn the \"\nservices\n\" column, add a comma-separated list of\nSub Level Categories\nand\nSub-Sub Level Categories\none would like the listing added into.\nFor example, for the listing added into the Top Level Category “Ice Cream Shop”, one could add the Sub Level Categories \"Ice Cream,Ice Cream Cake,Ice Cream Cupcake\" (since these are all Sub Level Categories of “Ice Cream Shop” that apply to this listing). If one would like a listing imported into ALL Sub Level Categories under the Top Level Category it is being imported into (as designated in the profession_name column), then one could simply put \"all\" under the services column.\nnote that all of the Top Level Categories and Sub Level Categories entered into this spreadsheet must be spelled exactly the same as they are in the category structure in the Directory Planner.\nIf there are several sub or sub-sub-categories with the same name,\nit is possible to select which specific sub-category to assign the member to.\n1) Specify the sub-category first followed by this sign:\n=>\n2) Specify the sub-sub category, following this example:\nsub level=>sub-sub level (Ice Cream Cake=>Vanilla Cake)\nNOTE: Both Sub and Sub-Sub Level Categories should be entered under the \"services\" column, separated by a comma.\nHelpful Tips\nAutomatically generated member URLs use the current name-formatting rules. Straight or curly apostrophes are removed, most other punctuation and spaces become hyphens, and underscores are preserved. For example, a member name of Ruby’s Clay Studio produces rubys-clay-studio in the name portion of the URL. These rules format the generated URL; the CSV file must still meet the import requirements in this article. See\nHow To Customize The Member Profile URL Structure\nfor the complete URL structure.\nIf any columns are blank in the import file, it is always best to delete the entire column. This is also mentioned above, but is a very common issue that people run into! For example, if none of the members which are going to import have any data for the \"fees\" column, it is best to delete this column entirely before import.\nSome US zip codes begin with a zero or multiple zeros, which Excel and other spreadsheet programs sometimes remove automatically. Make sure all of the zip_codes are formatted as text and have all of the required 0’s at the beginning of the zipcode\nIf one is entering data for the logo, profile_photo, website, twitter, facebook, linkedin, or google_plus fields, be sure to use full URLs including the http:// (EG: http://www.google.com/image.jpg)\nMake sure all listings have something entered into either the company or name field (or first_name and last_name fields) to insure that there will be a title for each listing.\nMake sure to enter either\nC\nompany\nor\nI\nndividual\ninto the\nlisting_type\nfield for each listing (Entering \"Company\" will make the company name more prominent in the listing; entering \"Individual\" will make the name of the person more prominent in the listing) *Our variables are case sensitive so make sure to capitalize the first letter for these.\nAdd the Top Level category for each listing into the profession_name column. Note that this must be spelled exactly the same as the category is spelled in the directory, or they will not import correctly. (See the section of this article above titled \"How to Add Categories to a CSV Import Spreadsheet\" for more tips)\n(OPTIONAL) Add a comma-separated list of Sub Level Categories in each listing imported into in the services column (See the section of this article above titled \"How to Add Categories to a CSV Import Spreadsheet\" for more tips).\nFor best results, it is recommended to first create the Category Structure in your site before importing your members into these categories. For more information on how to create categories for members.\nThe fields \"name\" and \" first_name + last_name\" will create a conflict if they are both populated in the file.\nSimply make sure that only \"name\" or \"first_name + last_name\" are populated. Either one will import the name of the listing successfully.\nImport Existing Subscription & Billing Information\nWhen importing members whose subscriptions are already established, their existing subscription information can also be included in the CSV file. This is especially useful when migrating members from another platform.\nMPORTANT:\nThese fields are not required for standard member imports. However, if importing subscription information, both\nsubscription_start_date\nand\nbilling_cycle\nmust be included together.\nStripe Customer ID\nField Variable:\nstripe_customer_id\nThis field is intended for members who already have an existing Stripe Customer ID, such as when migrating members from another platform that was previously connected to Stripe. Adding the existing Stripe Customer ID allows it to be associated with the imported member.\nAccepted format:\ncus_\nfollowed by alphanumeric characters only (eg:\ncus_ABC123xyz789\n)\nThe\nbilling_cycle\nand\nsubscription_start_date\nfields allow the Billing Cycle and Start Billing On information to be included during the member import, removing the need to manually create this subscription information for each imported member.\nSubscription Start Date\nField Variable:\nsubscription_start_date\nThis field defines the subscription start date for the imported member. It is available for paid membership plans only and must be provided together with the\nbilling_cycle\nfield.\nAccepted date formats:\nYYYY-MM-DD (example: 2024-06-15)\nYYYYMMDD (example: 20240615)\nThe website's configured date format (e.g. MM/DD/YYYY or DD/MM/YYYY)\nThe subscription start date cannot be more than one billing cycle in the past or more than 10 years in the future.\nBilling Cycle\nField Variable:\nbilling_cycle\nThis field defines the billing cycle for the imported member's subscription. It is available for paid membership plans only and must be provided together with the\nsubscription_start_date\nfield.\nThe corresponding billing amount in the selected Membership Plan must be greater than 0. For example, if the billing cycle is Monthly, the plan's monthly amount must be greater than 0.\nAvailable billing cycles depend on the billing options and prices configured for the selected Membership Plan.\nImport the File\nNavigate to the Search Members section of the admin. On the right side of the page, open the\nList Actions\nmenu and select\nImport Members via CSV File\n. The import page opens; the numbers in the second screenshot below match the steps that follow.\nThe Import settings will allow the user to select the membership plan the new listings will belong to. This is required to begin the import.\nA second option will allow the admin to determine the status of the listings upon import:\nSet as ACTIVE Members\nor\nSet as NOT ACTIVE Members\n.\nAn option to create a\nMember Tag and assign a Tag Group\nwill show, the system will automatically fill out the tag name with the date and time of the import, the information can be edited and the tag can be assigned to any of the available Tag Groups:\nThe Advanced Options will allow the import to:\n- Pass unique email checks\n- Create new categories from the file if they have not been added to the admin yet.\n- Geocode the users based on the location added to the CSV file. To use this function, add the \"Pretty URLS API Key\":\nSet Up Pretty URLs with Google Maps\n. A status line under the Geocode option shows whether the server key works, with a\nTest\nbutton to check it again and a button to add or fix the key (\nAdd a server key\nor\nFix the server key\n); a key Google refuses there is not saved.\n- Auto import profile photo and logo images -\nMember Images: Importing Members with Profile Photos, Logos & Cover Photos\n\"\nStep 2. Upload CSV File Here\n\" will allow the user to select a CSV import file from the computer.\nOnce the file is selected, simply select \"\nBegin File Import\n\" for the upload to begin.\nThe\nImport Members Data Map\nwill display on screen, listing each column header from the file with a preview of its first value and the directory property it will be imported into (1). When using the default import templates without any type of variable modification, we recommend to perform the import as is and click\nContinue with Import\n(2).\nIf the import file includes custom variables which may have been added to forms prior to the import, the same module will display them on the left side of the columns with an example of a value next to it. A column that does not match an existing property shows\nChoose or create a property\nin its\nDirectory Property\ndropdown (1). Click that dropdown to choose the property the column should be imported into:\nThe dropdown lists the existing properties (1): every standard member field, plus any custom field that already has a value saved for at least one member. Should the new variable be missing from the list, click\nCreate new property\n(2) at the bottom of the dropdown to create the variable name for a successful import:\nType the new property name and click\nAdd\n(1) to add it to the dropdown. Use lowercase letters, numbers, underscores or hyphens: uppercase letters are changed to lowercase and spaces to underscores, and a name with any other character, or one already in the list, is not accepted:\nThen open the dropdown again, type the new property name in the search box at the top, and click it to choose it for the column.\nTo leave a column out of the import, open its dropdown and click\nDon't import column\n(1):\nClick\nContinue with Import\n. One last verification asks \"Are you sure you want to run this Import Members File?\": click\nYes, Continue\n(1) for the file to be imported.\nImportant Note:\nAn error message titled\nImport File Exceeds Member Limi\nt will display in place of the Data Map when the number of members in the file plus the members already on the site is more than the site's member limit:\nOnce the import is completed a message is going to pop up to\nSync the members with Google Maps\n:\n\"It is recommended to sync all newly imported members with Google Maps so they are searchable by location. Sync members now?\" Click\nSync Members\n(1) to open the geocoding page now, or\nCancel\nto do it later.\nTo learn more information regarding member limits, refer to the article down below:\n100,000 Member Limit Boost\nGeocode Members\nAfter importing the members, follow these steps in the link below:\nGeocoding Members After A CSV Import\nImport Profile Images (optional)\nTo complete the import of member images and logos, refer to the link below:\nMember Images: Importing Members With Profile Photos, Logos & Cover Photos\nFor the Cover Photo to appear on the profile this Add-on must be active on the website\nProfile Cover Photo\n.\nGet Personal Assistance\nWe understand that this can be a challenging process, even for some users that are more technically inclined. If one would prefer that someone on our team assists with the import of the members, we have Training Sessions covering importing members. Use the link below to purchase this service: Training Sessions\nImportant Notes\nThe files below should be downloaded to the computer and viewed in a spreadsheet application like Microsoft Excel, Google Sheets or another similar application.\nService Areas\ncan't be imported at this time, this might be something we add in the future.\nThe system checks default URL fields (website, booking link, social, etc) and only imports them if they’re in a valid URL format - otherwise, they’re skipped. Valid formats are: https://website.com or https://www.website.com.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415571/original/RZeo352MqabGoEI0c8gTg14iv2wFXZtSLQ.png?1791392587",
+          "alt": "The ALL fields member import template open in Google Sheets with row 1, the column headers, highlighted.",
+          "position": 0,
+          "nearby_text": "Individual"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415566/original/_lApz_l-6xTA4OMVw-a-80IKNpAkVY4kRA.png?1791392586",
+          "alt": "The member import template in Google Sheets with rows 2 to 4, the explanation rows to delete before importing, highlighted.",
+          "position": 1,
+          "nearby_text": "delete rows 2 to 4"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370587/original/V8jnRipUli7if57-q0dRCo0NYYElXfiTNQ.png?1791335039",
+          "alt": "Columns AM and AN of the member import template in Google Sheets, profession_name and services, highlighted.",
+          "position": 2,
+          "nearby_text": "Categories go in 2 columns near the right side of the spreadsheet (columns AM and AN in the template with ALL fields) - \" profession_name \" and \" services \":"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370639/original/OcC1SJc3czBgn6AkYOQRZiOlP7NcjIvdrQ.png?1791335128",
+          "alt": "The Conflicting Data Error pop-up shown when an import file has both a name column and first_name/last_name columns.",
+          "position": 3,
+          "nearby_text": "Helpful Tips Automatically generated member URLs use the current name-formatting rules. Straight or curly apostrophes are removed, most other punctuation and spaces become hyphens, and underscores are"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367408/original/Q1tgsJhsckMplXJJmPHj6pnH4hjem-v97w.png?1791329939",
+          "alt": "A member's Create New Order form with the Billing Cycle (1) and Start Billing On (2) fields highlighted.",
+          "position": 4,
+          "nearby_text": "Accepted format: cus_ followed by alphanumeric characters only (eg: cus_ABC123xyz789 )"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367409/original/7jHFR6x9c1zD9ALuOHV4OI6N73nMIVCF3w.png?1791329940",
+          "alt": "The Search Members List Actions menu (1) open with Import Members via CSV File (2) highlighted.",
+          "position": 5,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367411/original/Jsm0YQlCBZicGy7Zbx1Pt4_66HNnfQoRhQ.png?1791329943",
+          "alt": "The Import Members with .CSV File Upload page with numbered badges matching steps 2 to 7.",
+          "position": 6,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367412/original/FuVSBrUA54k44PTOXSx37yF89lifH1JLqQ.png?1791329944",
+          "alt": "The Assign Membership Plan list open on the import page, showing the site's membership plans.",
+          "position": 7,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367415/original/2p-3KIZZE4cW9ElGGGyzdgGFujUhj7G1tA.png?1791329945",
+          "alt": "The import status option, set to Set as ACTIVE Members, highlighted on the import page.",
+          "position": 8,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367410/original/RZ-uVOsXakfPS00Zn9Ami1HqFXFhLzyZUA.png?1791329941",
+          "alt": "The Create Member Tag fields: the tag name filled with the import date and time (1) and the tag group menu (2).",
+          "position": 9,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186366524/original/-5LSZqaX1__qj8L6DqsEolmu__eltnQxmA.png?1791327983",
+          "alt": "Import Members Advanced Options with the server key status line under the Geocode option, showing Test and Add a server key.",
+          "position": 10,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370641/original/eNn_0kzkFRl9HVUy3V78Dy9CiTdThiZngA.png?1791335129",
+          "alt": "The Import Members Data Map listing each column from the file, its preview value and directory property (1), with the Continue with Import button (2).",
+          "position": 11,
+          "nearby_text": "The Import Members Data Map will display on screen, listing each column header from the file with a preview of its first value and the directory property it will be imported into (1). When using the d"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186725075/original/quteFAsvvESYqTaexfZ7clKAUKXH-BPGdg.png?1791920520",
+          "alt": "The Import Members Data Map with an unmatched favorite_color column whose Directory Property dropdown shows Choose or create a property (1).",
+          "position": 12,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186725076/original/ozc7OaPIZ5FACx06nbxl1KRH6D3EhzvmAQ.png?1791920521",
+          "alt": "The Directory Property dropdown open in front of the Data Map, listing existing properties (1) with the Create new property link (2) below them.",
+          "position": 13,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186725077/original/aKMc1OrOnOd4LhTdLU4rW1kolmgKnobzYw.png?1791920523",
+          "alt": "The new property name field with color typed in and the Add button (1) at the bottom of the dropdown.",
+          "position": 14,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186725081/original/Vy9V-6fCmgxwhX-IW46Ilx4O-9yHGv3B8A.png?1791920524",
+          "alt": "The open Directory Property dropdown with the Don't import column link (1) at the bottom.",
+          "position": 15,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370642/original/o2WUbMVG0fVQx5Y2EdK6occ-Xb22wxlMKg.png?1791335130",
+          "alt": "The Import Members confirmation asking Are you sure you want to run this Import Members File?, with Yes, Continue (1).",
+          "position": 16,
+          "nearby_text": "Click Continue with Import . One last verification asks \"Are you sure you want to run this Import Members File?\": click Yes, Continue (1) for the file to be imported."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370643/original/pCssIp1esFX8TiUYS5KGs5_5Fh60Zv9ing.png?1791335131",
+          "alt": "The Import File Exceeds Member Limit message with the site's total members, member limit and Upgrade Limit button.",
+          "position": 17,
+          "nearby_text": "Important Note: An error message titled Import File Exceeds Member Limi t will display in place of the Data Map when the number of members in the file plus the members already on the site is more than"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370644/original/fx059EnXpWrsE9kYLsxBWwl6yZRqh4bKSA.png?1791335132",
+          "alt": "The Important pop-up after an import, recommending a Google Maps sync, with the Sync Members button (1).",
+          "position": 18,
+          "nearby_text": "\"It is recommended to sync all newly imported members with Google Maps so they are searchable by location. Sync members now?\" Click Sync Members (1) to open the geocoding page now, or Cancel to do it "
+        }
+      ],
+      "content_hash": "0486a933a552b875f1e5b698bce4bb1cbb2669b5020e25dd14f868a5c8ec8bbc",
+      "ingested_at": "2026-10-17T11:48:32.136292+00:00"
+    },
+    {
+      "article_id": "5000559709",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets",
+      "title": "How to Override and Edit Default CSS stylesheets",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Adding Custom CSS"
+        },
+        {
+          "level": "h2",
+          "text": "Live CSS Checker"
+        },
+        {
+          "level": "h3",
+          "text": "Errors (Saving Is Blocked)"
+        },
+        {
+          "level": "h3",
+          "text": "Warnings (Saving Still Allowed)"
+        },
+        {
+          "level": "h3",
+          "text": "Bracket Matching"
+        },
+        {
+          "level": "h3",
+          "text": "What the Checker Covers"
+        }
+      ],
+      "body_text": "How to Override and Edit Default CSS stylesheets\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000559709\nThe\nAdditional CSS\nfield applies custom CSS to every page of the website. It is useful for changing the header, the footer, the page background, or any other area that should look the same on all pages. CSS added here overrides the default CSS of the template.\nAdding Custom CSS\nGo to\nSettings >> Design Settings\nand open the\nCustom CSS / HEAD\ntab (1).\nAdd the custom CSS rules to the\nAdditional CSS\neditor (2).\nCheck the status line under the editor (3). It should read\nCSS looks valid.\n(see\nLive CSS Checker\nbelow).\nClick\nSave Changes\n.\nImportant: there is no need to include <style> tags.\nEnter the CSS rules only. The website already places the contents of this field inside a style block.\nTo go back to the default styles, delete the CSS from this field and save. The styles reset to the template defaults.\nNOTE:\nBe careful when removing CSS from this field, as the custom CSS will be permanently deleted and cannot be retrieved.\nLive CSS Checker\nThe Additional CSS editor checks the CSS while it is typed. A single missing closing brace (\n}\n) can break the layout of every page, because the custom CSS is placed in the same style block as the page’s other CSS, so the checker catches these mistakes before they are saved.\nThe checker reports in two places:\nThe status line\nunder the editor. It shows\n✓ CSS looks valid.\nin green when nothing is wrong, or a count of the problems found with the line number and description of the first one.\nA marker in the editor margin\nnext to the line with the problem: red for an error, amber for a warning.\nThe clip below types a rule with a missing closing brace, shows the red error appear, then adds the brace so the status line returns to\nCSS looks valid.\nErrors (Saving Is Blocked)\nErrors are problems that break the CSS that follows them. They are marked in red (1) and the status line turns red (2), for example\n1 error (first on line 1: Unclosed rule — missing closing '}'.)\n. The checker reports these errors:\nUnclosed rule — missing closing '}'.\nA rule or\n@media\nblock was opened with\n{\nand never closed.\nUnexpected '}' with no matching '{'.\nThere is an extra closing brace.\nUnclosed comment — missing closing comment delimiter.\nA comment was started with\n/*\nand never ended with\n*/\n.\nWhile the Additional CSS has an error, clicking\nSave Changes\ndoes not save. A popup titled\nAdditional CSS has syntax errors\n(1) names the line to fix, and the\nCustom CSS / HEAD\ntab opens so the error is in view. Fix the line, confirm the status line no longer shows an error, then save again.\nThe block applies to the whole Design Settings page.\nThe\nSave Changes\nbutton saves every Design Settings tab together, so an error in Additional CSS also stops changes on the other tabs from saving until it is fixed.\nWarnings (Saving Still Allowed)\nWarnings point at CSS that the browser will skip, but they never stop a save. They are marked in amber (1), and the status line ends with\nsaves still allowed\n(2). The checker warns about:\nDeclaration outside a rule\n, such as\ncolor: red;\ntyped outside any\n{ }\n. The browser drops it and the rule after it.\nInvalid value\nfor a property, such as\ndisplay: blok;\n, or an\nUnknown property\n. The browser ignores that line.\nUnclosed '(' or '['\n, such as an unfinished\ncalc(\nor\nurl(\n. The browser ignores the CSS after it.\nWarnings are worth fixing because the browser skips that CSS, but vendor prefixes (such as\n-webkit-\n), CSS custom properties (\n--my-color\n) and other valid modern CSS do not trigger them.\nBracket Matching\nPlacing the cursor next to a brace highlights the matching brace, which makes it easier to see which rule a closing brace belongs to. A brace with no partner is marked instead.\nWhat the Checker Covers\nOnly the\nAdditional CSS\nfield is checked.\nAdditional HEAD Code\nand\nAdditional Footer Code\nare not checked and save as entered.\nThe checker runs in the admin editor. CSS that is already broken when the page loads is flagged as soon as the tab opens.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357130/original/1NFdX8I1exwsFDfbF_jFpkWytTJ7X5Da0w.png?1791317381",
+          "alt": "Design Settings Custom CSS / HEAD tab with the empty Additional CSS editor and a green CSS looks valid status line below it.",
+          "position": 0,
+          "nearby_text": "Go to Settings >> Design Settings and open the Custom CSS / HEAD tab (1). Add the custom CSS rules to the Additional CSS editor (2). Check the status line under the editor (3). It should read CSS look"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357131/original/6oV_41TIrh9J8povHKYPKBQ0Z9eV7b_ImQ.png?1791317383",
+          "alt": "Additional CSS editor with an unclosed rule marked in red on line 1 and the red error status line below it.",
+          "position": 1,
+          "nearby_text": "Unclosed rule — missing closing '}'. A rule or @media block was opened with { and never closed. Unexpected '}' with no matching '{'. There is an extra closing brace. Unclosed comment — missing closing"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357154/original/qtRJJysgaQs-YJ_E6zbInAe3z0ITQAcXjA.png?1791317384",
+          "alt": "Popup titled Additional CSS has syntax errors, saying to fix line 1 and that Save is blocked until the editor reports no errors.",
+          "position": 2,
+          "nearby_text": "While the Additional CSS has an error, clicking Save Changes does not save. A popup titled Additional CSS has syntax errors (1) names the line to fix, and the Custom CSS / HEAD tab opens so the error "
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357155/original/Jhe0UhJqXbHyAhudCR2yFqBYky-nLnGNag.png?1791317386",
+          "alt": "Additional CSS editor with display: blok on line 1 marked in amber and an amber warning line below saying saves are still allowed.",
+          "position": 3,
+          "nearby_text": "Declaration outside a rule , such as color: red; typed outside any { } . The browser drops it and the rule after it. Invalid value for a property, such as display: blok; , or an Unknown property . The"
+        }
+      ],
+      "content_hash": "a969f8af2bdfd2fe941c7ffa5c8702ad1e43a898b7eae55731f83b35ea585edf",
+      "ingested_at": "2026-10-17T11:48:33.684927+00:00"
+    },
+    {
+      "article_id": "5000559800",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+      "title": "How To Access Webmail Through the Admin Area",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Before starting"
+        },
+        {
+          "level": "h2",
+          "text": "Open a mailbox in webmail"
+        },
+        {
+          "level": "h2",
+          "text": "If the password is requested"
+        },
+        {
+          "level": "h2",
+          "text": "Catch-all mail"
+        },
+        {
+          "level": "h2",
+          "text": "Additional notes"
+        }
+      ],
+      "body_text": "How To Access Webmail Through the Admin Area\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000559800\nWebmail reads and sends a mailbox's email in the browser, with no mail program to set up. The admin opens it from\nSettings > Domain Manager > Mailboxes\n, and for administrators whose role can open the website's cPanel it signs in to the mailbox without asking for the mailbox password.\nBefore starting\nThe website must use a custom domain with at least one mailbox on its hosting. See\nSettings » Domain Manager » Mailboxes and Email Routing\nto create one.\nAllow pop-ups for the admin, because webmail opens in a new browser window.\nOpen a mailbox in webmail\nOpen\nEmails > Email Accounts\n, or\nSettings > Domain Manager\nand select\nMailboxes\n.\nFind the mailbox in the\nMailboxes\nlist.\nClick\nOpen webmail\n.\nThe mailbox's inbox opens in a new window, already signed in.\nOpen webmail (2) on a mailbox row. The Catch-all label (1) marks the mailbox that receives mail sent to addresses that do not exist.\nIf the password is requested\nThe administrator's role cannot open cPanel.\nSigning in without the password is limited to administrators who can already open the website's cPanel, where cPanel's own Check Email does the same. For other administrators,\nOpen webmail\nopens the webmail sign-in page; enter the full email address and the mailbox password there. A forgotten mailbox password can be replaced with\nMore > Change the password\non the mailbox row.\nThe mail server could not sign in.\nThe new window shows the webmail sign-in page instead, and a message explains that the mailbox password is needed there.\nThe browser blocked the window.\nA message asks to allow pop-ups for the page. Allow them, then click\nOpen webmail\nagain.\nCatch-all mail\nMail sent to addresses at the domain that do not exist can be kept in the account's own mailbox (\nKeep in the catch-all mailbox\n). That mailbox is then listed as\nThe account's own mailbox\nwith the\nCatch-all\nlabel, and\nOpen webmail\nis the way to read its mail.\nAdditional notes\nEach signed-in opening is recorded in the website's notifications as\nWebmail opened for\nthe mailbox.\nFor administrators without cPanel access,\nOpen webmail\nlinks to the website's address followed by\n/webmail\n, such as\nhttps://www.example.com/webmail\n, which is the webmail sign-in page and asks for the mailbox password.\nFor help using the webmail program itself, see the\ncPanel documentation\n.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358597/original/VJD5ebuo2MSVnjmV9iUW09e7i8XsEAqvDA.png?1791318602",
+          "alt": "Mailboxes card with a catch-all mailbox address (1) and its Open webmail button (2) beside Set up and More.",
+          "position": 0,
+          "nearby_text": "Open Emails > Email Accounts , or Settings > Domain Manager and select Mailboxes . Find the mailbox in the Mailboxes list. Click Open webmail . The mailbox's inbox opens in a new window, already signe"
+        }
+      ],
+      "content_hash": "1b337610b236411a5f4b6a4a3223bd66667c9bdec3a3208f6b8fa42646370932",
+      "ingested_at": "2026-10-17T11:48:35.116296+00:00"
+    },
+    {
+      "article_id": "5000567728",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+      "title": "How Do I Cancel Payment Subscriptions - Orders",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Transaction History"
+        },
+        {
+          "level": "h2",
+          "text": "Member's Payment History: \"Subscriptions\" Tab"
+        },
+        {
+          "level": "h2",
+          "text": "Member's Payment History: \"Transactions\" Tab"
+        },
+        {
+          "level": "h2",
+          "text": "Recording a Reason for Cancelling"
+        }
+      ],
+      "body_text": "How Do I Cancel Payment Subscriptions - Orders\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000567728\nAn admin can end (cancel) a member's subscription from three places in the admin area. Ending a subscription stops all future payments for it and cancels its unpaid invoices. Each route asks for confirmation first and offers an optional box to record why the subscription is being cancelled.\nTransaction History\nThe member's Payment History, Subscriptions tab\nThe member's Payment History, Transactions tab\nImportant:\nEnding a subscription from the admin dashboard does not deactivate the member’s account. To completely remove a member so they no longer appear on the website’s front end, the site admin must manually update the member’s status.\nQuick edit to modify member status\n.\nTransaction History\n1. In the admin area, go to\nFinance » Transaction History\n.\n2. Search for the member by name or ID in the\nSearch User Name or ID #\nfield (1 in the image below), then open the tab that holds the member's invoice:\nPayments Received\n,\nUpcoming Payments\n,\nPast Due\n,\nRefunded\nor\nStopped\n(2).\n3. On the invoice's row, hover over\nActions\nand click\nEnd Subscription\n. The option only appears when the invoice belongs to an active subscription.\n4. The\nConfirm End Subscription\nwindow opens. Optionally type the reason for the cancellation in the\nReason for cancelling\nbox (see\nRecording a Reason for Cancelling\nbelow), then click\nYes, continue\n. Click\nNo, cancel\nto close the window without ending the subscription.\nThe subscription ends, its unpaid invoices are cancelled, and no further payments are collected for it.\nMember's Payment History: \"Subscriptions\" Tab\nSubscriptions can also be ended from the member's own billing page.\n1. Go to\nMy Members » Search Members\nand find the member. Hover over\nActions\non the member's row and click\nPayment History\n.\n2. Open the\nSubscriptions\ntab (1). On the subscription's row, hover over\nActions\n(2) and click\nEnd Subscription\n(3).\n3. The\nCancel Subscription?\nwindow opens. Optionally type the reason in the\nReason for cancelling\nbox, then click\nYes, continue\n. Click\nNo, cancel\nto close the window without ending the subscription.\nThis is the same window that opens from\nActions » End Subscription\non the\nFinance » Search Subscriptions\npage. After the subscription ends, its row shows\nEnded\n, and any reason entered appears as a\nReason:\nline in the\nHistory\ncolumn.\nMember's Payment History: \"Transactions\" Tab\nThe member's\nTransactions\ntab lists the same invoices as\nFinance » Transaction History\n, filtered to that member. Ending a subscription from here also cancels its unpaid invoices, including an unpaid invoice the system has already created for the next due date (invoices are created 13 days before the due date).\n1. Go to\nMy Members » Search Members\n, find the member, hover over\nActions\nand click\nPayment History\n(as in the previous section).\n2. Open the\nTransactions\ntab (1) and the tab that holds the invoice, then hover over\nActions\non the invoice's row (2) and click\nEnd Subscription\n.\n3. The\nConfirm End Subscription\nwindow opens, the same one used on the Transaction History page. Optionally type the reason in the\nReason for cancelling\nbox, then click\nYes, continue\n.\nTo refund a payment instead, open the same\nActions\nmenu on a paid invoice and click\nRefund Payment\n:\nRecording a Reason for Cancelling\nBoth End Subscription windows include a\nReason for cancelling\nbox, so the admin team can keep a record of why each subscription was ended (for example, \"Member asked to cancel by phone\" or \"Switched to an annual plan\").\nThe reason is optional. Leaving the box blank ends the subscription exactly as before.\nThe box accepts up to 1,000 characters (\nLimit: 1000 characters\nis shown under it). Plain text only; emoji are not supported.\nThe reason is saved with the cancellation and appears in the\nHistory\ncolumn of\nFinance » Search Subscriptions\nand the member's\nSubscriptions\ntab, as a\nReason:\nline next to the\nEnded\ndetails.\nThe reason is also added to the activity notification the website records when an admin ends a subscription.\nIf the subscription is ended but the reason cannot be saved, the window shows\nCancelled, but the reason was NOT saved\n. The subscription is still ended; only the reason is missing.\nRead this article to learn how to create a new order (subscription):\nHow To Manually Bill A Member / Create A Subscription For A Member\n.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415526/original/6ia92V_iAr9stLWFZGKpJ-Igx1mBxwfjjg.png?1791392557",
+          "alt": "Transaction History search field and the five invoice tabs",
+          "position": 0,
+          "nearby_text": "2. Search for the member by name or ID in the Search User Name or ID # field (1 in the image below), then open the tab that holds the member's invoice: Payments Received , Upcoming Payments , Past Due"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358465/original/x0KIu3Mkw5nhf779Sj6UtCxpn8jzkX9q1g.png?1791318465",
+          "alt": "Actions menu on a Transaction History invoice with End Subscription highlighted",
+          "position": 1,
+          "nearby_text": "3. On the invoice's row, hover over Actions and click End Subscription . The option only appears when the invoice belongs to an active subscription."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367603/original/zoF3RqoBiu3SUDOk8fQn1QIDUS4NpWdcwQ.png?1791330199",
+          "alt": "Confirm End Subscription window with the optional Reason for cancelling box",
+          "position": 2,
+          "nearby_text": "4. The Confirm End Subscription window opens. Optionally type the reason for the cancellation in the Reason for cancelling box (see Recording a Reason for Cancelling below), then click Yes, continue ."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358466/original/6IhJvZ-OBJwLg2nrMNrFSNgQGYAsebgRaw.png?1791318466",
+          "alt": "Search Members Actions menu with Payment History highlighted",
+          "position": 3,
+          "nearby_text": "1. Go to My Members » Search Members and find the member. Hover over Actions on the member's row and click Payment History ."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358467/original/LlQlUPvwvTJgj1yUIcq9Oek-cv707XGzAw.png?1791318467",
+          "alt": "Member Payment History Subscriptions tab with the Actions menu and End Subscription highlighted",
+          "position": 4,
+          "nearby_text": "2. Open the Subscriptions tab (1). On the subscription's row, hover over Actions (2) and click End Subscription (3)."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186367604/original/N8rd9uJLNgY7VOJ-Mn6jOq8rHG_IjBWDjw.png?1791330200",
+          "alt": "Cancel Subscription window with the optional Reason for cancelling box",
+          "position": 5,
+          "nearby_text": "3. The Cancel Subscription? window opens. Optionally type the reason in the Reason for cancelling box, then click Yes, continue . Click No, cancel to close the window without ending the subscription."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358468/original/oEmrHUSlyp8UPTN0di6cYXdY6xL2prRg-g.png?1791318468",
+          "alt": "Member Payment History Transactions tab with the invoice Actions button highlighted",
+          "position": 6,
+          "nearby_text": "2. Open the Transactions tab (1) and the tab that holds the invoice, then hover over Actions on the invoice's row (2) and click End Subscription ."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358469/original/e9IK4SZ9OfDUiS898iCeaJQUdNh4Wslpzw.png?1791318469",
+          "alt": "Invoice Actions menu with Refund Payment highlighted",
+          "position": 7,
+          "nearby_text": "To refund a payment instead, open the same Actions menu on a paid invoice and click Refund Payment :"
+        }
+      ],
+      "content_hash": "36a8b0ff3c79828df2b43c29d5e936e8bc279b3cf5c1d35763af6c45de444365",
+      "ingested_at": "2026-10-17T11:48:36.603668+00:00"
+    },
+    {
+      "article_id": "5000568062",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+      "title": "Mandatory Fields For Member Imports",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Name or Company (name, company)"
+        },
+        {
+          "level": "h2",
+          "text": "Listing Type (listing_type)"
+        },
+        {
+          "level": "h2",
+          "text": "Country Code (country_code)"
+        },
+        {
+          "level": "h2",
+          "text": "Profession Name (profession_name)"
+        },
+        {
+          "level": "h2",
+          "text": "Subscription & Billing Fields"
+        },
+        {
+          "level": "h3",
+          "text": "Subscription Start Date"
+        },
+        {
+          "level": "h3",
+          "text": "Billing Cycle"
+        },
+        {
+          "level": "h2",
+          "text": ""
+        }
+      ],
+      "body_text": "Mandatory Fields For Member Imports\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000568062\nIf there are any issues during the import process, it may be caused by one of the following mandatory fields missing.\nName or Company (name, company)\nField Variable: name, company\nInclude either the \"name\" or \"company\" fields. It is also possible to include both.\nName: Combines the first and last name.\nCompany: Company name\nListing Type (listing_type)\nField Variable: listing_type\nCompany: Will display the company name in search results\nIndividual: Displays the individual's name in search results (commonly used for medical or professional directories).\nCountry Code (country_code)\nField Variable: country_code\nTwo-letter\ncountry codes\nare assigned to each listing. Although only the country_code is strictly required, omitting the zip_code and city fields prevents accurate geo-coding, resulting in an incomplete user experience.\nProfession Name (profession_name)\nField Variable: profession_name\nTop-level categories associated with each member. This is the minimum required to have members import and display properly.\nSubscription & Billing Fields\nThe following fields are optional for standard member imports. However, when importing existing subscription information, both fields must be provided together.\nIMPORTANT:\nSubscription and billing fields are optional and are not required for standard member imports. However, if importing subscription information, both\nsubscription_start_date\nand\nbilling_cycle\nmust be included together.\nSubscription Start Date\nField Variable:\nsubscription_start_date\nDefines the subscription start date for an imported member on a paid membership plan. This field must be provided together with\nbilling_cycle\n.\nAccepted date formats:\nYYYY-MM-DD (example: 2024-06-15)\nYYYYMMDD (example: 20240615)\nThe website's configured date format (e.g. MM/DD/YYYY or DD/MM/YYYY)\nThe subscription start date cannot be more than one billing cycle in the past or more than 10 years in the future.\nBilling Cycle\nField Variable:\nbilling_cycle\nDefines the billing cycle for the imported member's subscription. This field must be provided together with\nsubscription_start_date\n. The corresponding billing amount configured in the selected Membership Plan must be greater than 0.\nAvailable billing cycles depend on the billing options and prices configured for the selected Membership Plan. The corresponding billing amount for the selected cycle must be greater than 0. For example, if the billing cycle is Monthly, the plan's monthly amount must be greater than 0.",
+      "images": [],
+      "content_hash": "1145bbe748ad84d36ec3a28c75153d08cf2cbf3db1415d5ef9df7abc8513a789",
+      "ingested_at": "2026-10-17T11:48:38.102126+00:00"
+    },
+    {
+      "article_id": "5000614045",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000614045-can-i-host-a-wordpress-site-on-brilliant-directories-",
+      "title": "Can I host a Wordpress site on Brilliant Directories?",
+      "headings": [],
+      "body_text": "Can I host a Wordpress site on Brilliant Directories?\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000614045\nAt this time, this is\nnot\npossible.\nWordpress cannot be hosted on the local Brilliant Directories cPanel account with us where the directory is. This cPanel account is only meant for your directory alone and no other 3rd party software, including Wordpress, can be hosted here. Since we cannot guarantee the security of 3rd party software platforms like Wordpress, we cannot host any of these software applications in the interest of maintaining the security of the website and the sites of others on the same server.\nIt is possible to setup a subdomain and use Wordpress for an alternate website using the domain (EG: blog.yourdomain.com), you will need to either\nbuy an upgraded license from Wordpress.com\n(starting at $99 / year) to host the blog there,buy your own web hosting account and host the free self-hosted version of Wordpress there.\nSome popular web hosts include:\nBluehost.com\nArvixe.com\n1and1.com\nGoDaddy.com",
+      "images": [],
+      "content_hash": "3cc735c77a80163641b7a288e5a6c431682530558f7d43eaea4cf494fbc32fa4",
+      "ingested_at": "2026-10-17T11:48:39.533866+00:00"
+    },
+    {
+      "article_id": "5000619186",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics",
+      "title": "Member Profile Analytics",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Enabling the Add-On"
+        },
+        {
+          "level": "h2",
+          "text": "Tracked Links"
+        },
+        {
+          "level": "h3",
+          "text": "Member Profile Clicks"
+        },
+        {
+          "level": "h3",
+          "text": "Multi-Image Post Clicks"
+        },
+        {
+          "level": "h3",
+          "text": "Single Image Post Clicks"
+        },
+        {
+          "level": "h3",
+          "text": "Tracking Custom Links"
+        },
+        {
+          "level": "h2",
+          "text": "Notes"
+        },
+        {
+          "level": "h2",
+          "text": "Viewing Profile Analytics"
+        },
+        {
+          "level": "h3",
+          "text": "Admin Dashboard"
+        },
+        {
+          "level": "h3",
+          "text": "Top Views Dashboard Modules"
+        },
+        {
+          "level": "h3",
+          "text": "Member Dashboard"
+        },
+        {
+          "level": "h2",
+          "text": "Post Views"
+        },
+        {
+          "level": "h2",
+          "text": "Notes"
+        },
+        {
+          "level": "h2",
+          "text": "Adding Stats to Emails"
+        },
+        {
+          "level": "h2",
+          "text": "Search Members Sorting Options"
+        }
+      ],
+      "body_text": "Member Profile Analytics\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000619186\nThe Member Profile Analytics add-on is a click tracking tool, provides insights for admins and members with valuable data such as profile views,\nclicks to their website, visits to their social media profiles and member posts – all broken down by day, month and year.\nUse these statistics to show the members how they are analytically benefiting from the website.\nHow To Get This Add-On\nWebsites with the VIP Add-Ons Club automatically have this add-on available:\nJoin The VIP Add-Ons Club\nPurchase Individually:\nMember Profile Analytics Add-On\nEnabling the Add-On\nSelect which membership plan is allowed to view Profile Stats in\nFinance > Membership Plans\n:\nClick\nEdit\nto enable the statistics inside the plan settings:\nOpen the\nMember's Dashboard\ntab:\nScroll down to the option for\n\"Enable Profile Statistics\"\nand select the option that the admin wishes to have:\nEnable Only For Admin\nEnable For Member And Admin\nDisabled\nTracked Links\nHere is a list of the links that the website tracks in the Profile Analytics for members.\nMember Profile Clicks\nProfile Visit\nPhone Number\nMember Website URL\nMember Social Media Links\nContact Form (Send Message): counted once per submission, whichever option the form uses under What Happens After Form Submitted (Display Success Pop-Up Message, Display Success Alert Message or Redirect to Another Page).\nPrivate Chat Messages (first interaction)\nThe option that decides what happens after a contact form is submitted is set per form in Toolbox > Form Manager, by clicking\nEdit Form Settings\non the form. Contact Form submissions are counted with any of the three options in the\nWhat Happens After Form Submitted\ndropdown:\nMulti-Image Post Clicks\nPhoto Albums\nProducts + External Link (Web URL that will link visitors to more details)\nDigital Products\nProperties + External Link (Web URL that will link visitors to more details)\nClassifieds\n+ External Link (Web URL that will link visitors to more details)\nSingle Image Post Clicks\nVideos\nArticles\nJobs\n+ External Link (Web URL that will link visitors to more details)\nEvents\n+ External Link (Web URL that will link visitors to more details)\nCoupons\n+ External Link (Web URL that will link visitors to more details)\nAudios\nDiscussions\nTracking Custom Links\nA custom link or button added to a member’s listing, such as a booking button that opens an outside booking service, can be tracked too. Its clicks are counted in Profile Analytics under a name chosen for the link.\nA tracked custom link needs two things in its HTML: the\nweblink\nclass and a\ndata-click-type\nattribute holding the name that should appear in the statistics:\nCopy\n<a class=\"weblink\" data-click-type=\"Book a Visit\" href=\"https://example.com/book\" target=\"_blank\">Book a Visit</a>\nTo add a tracked link to a member’s listing:\nGo to\nMy Members >> Search Members\nand open the member.\nClick\nEdit Status\nto open the\nQuick Edit\nwindow, then open the\nAdvanced Options\ntab (1).\nPaste the link HTML into\nListing Custom FOOTER Code\n(2), changing the name, address and button text as needed.\nClick\nSave Changes\n.\nOnce the link has been clicked at least once, its name appears as its own column on the member’s\nProfile Analytics\ntab (1, 2):\nRules for tracked custom links:\nThe link must be saved on the member’s own record\n, for example in\nListing Custom FOOTER Code\n. A click is only counted when a link with the same\ndata-click-type\nname is stored on that member. Links added another way, such as through site-wide header or footer code or a widget, are not counted.\nNames\ncan use letters in any language, numbers, spaces, hyphens and underscores, up to 64 characters. Upper and lower case are treated as the same name. Names containing combining marks (some vowel signs in scripts such as Hindi or Thai) are not accepted.\nBuilt-in statistic names cannot be used\n, such as\nWebsite\n,\nPhone\n,\nProfile Views\n,\nContact Form\n,\nFacebook\nor\nInstagram\n, so a custom link never adds to a built-in count.\nThe link address can be anything\n, including an outside website. A link that is not a full web address (such as\n#book\nor\n/contact-us\n) still counts; the click is stored with the address of the profile page it came from.\nA link without data-click-type is not counted\nwhen it points somewhere other than the member’s own website or social media profile fields. Adding the\nweblink\nclass alone is not enough.\nTest while logged out.\nAs with profile views, clicks made by the website admin or by the member while logged in are not counted.\nNotes\nAll page loads are counted. However, views generated by the profile owner while logged in, as well as views by the website admin, are excluded.\nClicks won't be tracked if the page content is set to\nMembers-Only Content\n, or if the member is inactive.\nViewing Profile Analytics\nAdmins can monitor profile analytics from the\nAdmin Dashboard\nand\nMember Dashboard\n, including search result views, daily and monthly profile visits, and recorded clicks on social media and website links.\nDetailed insights are available when profile statistics are enabled for a membership plan.\nAdmin Dashboard\nThe admins will be able to see the amount of views in the member search results, as well as in the member's Profile Analytics tab (opened from Actions » Account Details)\nif the profile statistics are enabled for the membership plan\n:\nTop Views Dashboard Modules\nThe admin dashboard shows three modules for this:\nMost Viewed Profiles\n(1),\nMost Viewed Posts\n(2) and\nVisitor Activity\n(3), each with its own date range.\nAdmin Dashboard Modules\nMember Dashboard\nAlso the admin can login as any member in that specific Membership Level, on the left sidebar look for\nProfile Statistics\nclick on it and the profile views per month will be shown:\nClick on the month to check more detailed stats, it will display the views per day:\nSocial media clicks and website link clicks will also be recorded and added to the report.\nThey will not show up if no clicks have been registered.\nThe Visual Chart can be placed anywhere in the Member Dashboard. For example, adding\n[widget=Bootstrap Theme - Account - Listing Statistics Chart]\nper Membership Plan under\nMember's Dashboard » Custom Dashboard Content » Dashboard Header Content\n: set the dropdown to\nUse Text Editor\n(1), paste the shortcode into the editor (2) and save the plan:\nPost Views\nPosts will display how many views they have received in total:\nNotes\nCurrently, there is no Download Report functionality for this tool; the content is viewable only.\nAdding Stats to Emails\nEmail variables make it possible to display the Stat numbers inside outgoing emails. This article outlines the format, shows the default variables available in the editor toolbar, lists all supported date options, and explains how to create custom variables.\nUser Stats: Displaying Profile Statistics in Emails Using Variables\nSearch Members Sorting Options\nHaving this add-on active will show additional sorting options in the Search Members section in the admin dashboard.\nMembers can be sorted by\nMost\nand\nLeast\nviews:",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368588/original/OFRFxy9hvIIdcIBhMYvryHZBAdZkn9O7RQ.png?1791331910",
+          "alt": "Membership Plans list in the admin with Finance (1) expanded in the left menu and Membership Plans (2) highlighted.",
+          "position": 0,
+          "nearby_text": "Select which membership plan is allowed to view Profile Stats in Finance > Membership Plans :"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368589/original/U5BNdJoZX0gS7ICBxptBnGqbIIXhJS8HLg.png?1791331912",
+          "alt": "Membership Plans table with the Edit button (1) highlighted on the Featured plan row.",
+          "position": 1,
+          "nearby_text": "Click Edit to enable the statistics inside the plan settings:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368590/original/qHn5Zys5UPRBxRUAFnmGdD91Vxw5lt3nSQ.png?1791331914",
+          "alt": "Edit Membership Plan page for the Premium plan with the Member's Dashboard tab (1) highlighted.",
+          "position": 2,
+          "nearby_text": "Open the Member's Dashboard tab:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368591/original/kq8Mz-w_hmKlxk17S3lVie40c3zhAoPv2Q.png?1791331915",
+          "alt": "Enable Profile Statistics dropdown (1) set to Enable For Member And Admin, with the options Disabled, Enable For Member And Admin and Enable Only For Admin listed.",
+          "position": 3,
+          "nearby_text": "Enable Only For Admin Enable For Member And Admin Disabled"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368592/original/4howPusp_4szzMla-CaOwk3TgcYpaHBgaw.png?1791331916",
+          "alt": "Edit Form Editor for the Listing - Page - Send Message form with the What Happens After Form Submitted dropdown (1) highlighted on the Submission Settings tab.",
+          "position": 4,
+          "nearby_text": "The option that decides what happens after a contact form is submitted is set per form in Toolbox > Form Manager, by clicking Edit Form Settings on the form. Contact Form submissions are counted with "
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357158/original/r6HH170Mot-pf7sLMudsNBQUunlfMxb9xw.png?1791317390",
+          "alt": "Quick Edit window on the Advanced Options tab with a Book a Visit link pasted into the Listing Custom FOOTER Code field.",
+          "position": 5,
+          "nearby_text": "Go to My Members >> Search Members and open the member. Click Edit Status to open the Quick Edit window, then open the Advanced Options tab (1). Paste the link HTML into Listing Custom FOOTER Code (2)"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186357157/original/6yqnuU0XfZTBPbY5vaT6APKUzcTrhZcb8w.png?1791317388",
+          "alt": "Member's Profile Analytics tab with a new Book a Visit column showing a count of 1 next to Profile Views.",
+          "position": 6,
+          "nearby_text": "Once the link has been clicked at least once, its name appears as its own column on the member’s Profile Analytics tab (1, 2):"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368593/original/onBhMyX2Oz_jaRT1BZ7d5wL3T43Fud5taQ.png?1791331917",
+          "alt": "Members list with the Profile Views count (1) highlighted for Johnny Cook and the Account Details option (2) highlighted in the Actions menu for Thomas Gregory.",
+          "position": 7,
+          "nearby_text": "The admins will be able to see the amount of views in the member search results, as well as in the member's Profile Analytics tab (opened from Actions » Account Details) if the profile statistics are "
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368601/original/rvGagtt4gZxs6m-dL_-1GelidOCw2s3CIA.png?1791331919",
+          "alt": "Member account page for Thomas Gregory with the Profile Analytics tab (1) highlighted and the per Month columns Profile Views, View Single Post and Facebook Click (2) highlighted.",
+          "position": 8,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415550/original/9nxre-xQkqLIOdOO_aAgeKF0hvrWHDMyVg.png?1791392574",
+          "alt": "Dashboard widgets Most Viewed Profiles (1), Most Viewed Posts (2) and Visitor Activity (3), each with a Last Month filter highlighted.",
+          "position": 9,
+          "nearby_text": "Admin Dashboard Modules"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368603/original/bJj-3XKgNL7aj8gwb-L81hBGX39NRZgSpA.png?1791331922",
+          "alt": "A member's My Dashboard with the Profile Statistics link (1) highlighted in the left menu.",
+          "position": 10,
+          "nearby_text": "Also the admin can login as any member in that specific Membership Level, on the left sidebar look for Profile Statistics click on it and the profile views per month will be shown:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368604/original/SmrgwoxtWyGuvuRFhXXZBGGp8xKGo1upcg.png?1791331923",
+          "alt": "Profile Statistics page with the year tabs from 2015 to 2026 (1) highlighted and the October row (2) labeled Click a month for daily views.",
+          "position": 11,
+          "nearby_text": "Click on the month to check more detailed stats, it will display the views per day:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415552/original/9_8SENqqdq98onkukcHMuTa2pjCzAa45VA.png?1791392575",
+          "alt": "Profile Statistics daily view for October 2026 with the Daily chart (1) and the daily Posts Views table (2) highlighted.",
+          "position": 12,
+          "nearby_text": "Social media clicks and website link clicks will also be recorded and added to the report. They will not show up if no clicks have been registered. The Visual Chart can be placed anywhere in the Membe"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368618/original/rdIXkFxzpQk5V0fT1Xt9-1KCC8okwD094A.png?1791331926",
+          "alt": "Membership plan Custom Dashboard Content section with the Dashboard Header Content dropdown set to Use Text Editor (1) and the Listing Statistics Chart widget shortcode pasted into the editor (2).",
+          "position": 13,
+          "nearby_text": "The Visual Chart can be placed anywhere in the Member Dashboard. For example, adding [widget=Bootstrap Theme - Account - Listing Statistics Chart] per Membership Plan under Member's Dashboard » Custom"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186370611/original/G4K-v3YxGrZO-UFwAyeVbFk_WJf3nuhFug.png?1791335120",
+          "alt": "A member's My Dashboard with the Listing Statistics Chart (1) shown in the dashboard header.",
+          "position": 14,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368619/original/DFlbGMKUroQAGNnhYbMb0jO2nUvJU2qOaQ.png?1791331928",
+          "alt": "Job Openings list with the Views counters (1 and 2) highlighted on the Professional Barista and Pizza Specialist posts.",
+          "position": 15,
+          "nearby_text": "Posts will display how many views they have received in total:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186368620/original/o6HySby8dwjYKkunethrqbl7v-VbTd9Y8Q.png?1791331929",
+          "alt": "Members list with the Sort Most Views dropdown (1) highlighted and the Profile Views counts for John Smith (2) and Henry Barnes (3) highlighted.",
+          "position": 16,
+          "nearby_text": "Members can be sorted by Most and Least views:"
+        }
+      ],
+      "content_hash": "4be79c8b997081e34477ee57e116022b51c0f1d7d27e5f094a3bcbc7faec7238",
+      "ingested_at": "2026-10-17T11:48:40.897118+00:00"
+    },
+    {
+      "article_id": "5000636428",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000636428-don-t-activate-all-of-the-post-types-prior-to-the-website-launch",
+      "title": "Don't Activate All Of The Post Types Prior To the Website Launch",
+      "headings": [],
+      "body_text": "Don't Activate All Of The Post Types Prior To the Website Launch\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000636428\nIt's completely understandable why many website owners want to launch with all of the post types available to them out of the gate. There are many cool post types to choose from, such as coupons, videos, classifieds, articles, properties, photos, and more. It would seem only logical to make all of these post types available on the website for visitors to see from day one.\nThe only drawback to activating all post types prior to the launch of the website is that the admin will be painting itself into a corner by having to spend countless hours creating content for all of these post types.\nIt is better to choose one or two post types that have a ton of member content, which provides an excellent user experience, than to have 10 post types with just a few posts on each. When a visitor clicks on the \"coupons\" link, they should land on a results page with dozens, if not hundreds, of results. They should be able to search for coupons in San Francisco and get results. If the admin is not delivering this to the public, then the overall experience is poor.\nThe best practice is to select one or two post types that bring to the industry the most value and do a fantastic job creating content for these. If the site is a Real Estate site, then focus on adding hundreds of properties.  This way, when selling the site to prospects, they will see the value of joining. Potential members don't want to join a site that is in \"Beta mode\".\nSo  we recommend starting out on this amazing journey by picking one or two post types for the initial launch!",
+      "images": [],
+      "content_hash": "bd10f989918016f324d67e05c4c8255debccfde663274434f5f49f2404c70b3a",
+      "ingested_at": "2026-10-17T11:48:42.363759+00:00"
+    },
+    {
+      "article_id": "5000649874",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "title": "Where To Get Help & Support",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Help Center Articles"
+        },
+        {
+          "level": "h2",
+          "text": "Customizations & Advanced Changes"
+        },
+        {
+          "level": "h2",
+          "text": "Book Private Phone Training"
+        },
+        {
+          "level": "h2",
+          "text": "Contact Technical Support"
+        }
+      ],
+      "body_text": "Where To Get Help & Support\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000649874\nWe all need support at one time or another, and the great news is we have LOTS of ways to get the support  needed! Below are easy ways to get support.\nHelp Center Articles\nOur knowledge base is filled with great documentation about how the directory software works inside and out! Find questions to common questions as well as advanced documentation for developers\nGo To Knowledge Center »\nCustomizations & Advanced Changes\nHave neat ideas to customize the site? Get free quotes from certified developers at fair prices in the Marketplace. From small changes to total theme makeovers, get the help needed here!\nGo To Marketplace »\nBook Private Phone Training\nBecome a directory master by taking advantage of training sessions. Learn how to manage the directory and increase productivity.\nView Training Topics »\nContact Technical Support\nCan't find what you are looking for in either of the places above, contact our team directly. We're happy to help!\nSubmit A Ticket »\n(Fastest Response)\nOr\nEmail support@brilliantdirectories.com »\n(Takes Longer To Process)",
+      "images": [
+        {
+          "url": "https://brilliantdirectories.com/images/learning-center-logo.png",
+          "alt": null,
+          "position": 0,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://brilliantdirectories.com/images/marketplace-logo.png",
+          "alt": null,
+          "position": 1,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://www.brilliantdirectories.com/wp-content/uploads/2015/03/training-logo.png",
+          "alt": null,
+          "position": 2,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://brilliantdirectories.com/images/support-logo.png",
+          "alt": null,
+          "position": 3,
+          "nearby_text": ""
+        }
+      ],
+      "content_hash": "75b4f22f22ed14523161085a666cc14d5ff1b26548ebe7958be77a1a2800fe68",
+      "ingested_at": "2026-10-17T11:48:43.803970+00:00"
+    },
+    {
+      "article_id": "5000649876",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "title": "What The Brilliant Directories Support Team Can Help With",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Common Support Ticket Topics"
+        },
+        {
+          "level": "h2",
+          "text": "Support Staff Information"
+        },
+        {
+          "level": "h3",
+          "text": "Documentation Center"
+        },
+        {
+          "level": "h3",
+          "text": "Forum"
+        },
+        {
+          "level": "h3",
+          "text": "Marketplace"
+        },
+        {
+          "level": "h2",
+          "text": "Phone Support"
+        },
+        {
+          "level": "h3",
+          "text": ""
+        },
+        {
+          "level": "h2",
+          "text": "Urgent Tickets"
+        },
+        {
+          "level": "h2",
+          "text": "Ticketing System for Websites"
+        }
+      ],
+      "body_text": "What The Brilliant Directories Support Team Can Help With\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000649876\nAt Brilliant Directories we know that the only way the software can continue to be successful is if our user base is able to launch and grow thriving internet businesses using the platform.\nTo make sure that each of our users is put on the path to success, we have a full staff available to help guide all websites admins through the process of launching and growing the business.\nBrilliant Directories is designed to be a turn-key solution to help get the website idea launched quickly. Our support team is here to help navigate and find the settings needed to make desired changes to the website.\nThe support team is always here to answer any HOW-TO type of questions and to help resolve any issues that may arise with the default settings & default functionality of the platform.\nCommon Support Ticket Topics\nHow to make changes to the text in certain areas of the website\nHow to update the main menu of the website\nHow to import member categories to the website\nHow to setup membership plans on the website\nHow to make design change of colors, buttons, backgrounds, etc...\nHow to edit the SEO elements of specific pages\nHow to edit and place HTML widgets around the website\nHow to upload and include images or banner ads on the website\nHow to make minor CSS changes to align or resize existing elements on a page\nFeel free to email our support team for help:\nsupport@brilliantdirectories.com\nSupport Staff Information\nThe support staff are experts on our software platform. All support staff go through months of training covering the best practices for troubleshooting any software issues.\nDocumentation Center\nMany questions have already been asked by other users of the software, and their responses can be found instantly by searching for the question in the \"\nWhat Do You Need Help With\n?\" box at the top of our\nSolution Center Homepage\n:\nForum\nFor all requests submitted to the\nCommunity Forum\n, as a ticket, or as an email, allow 1 - 2 business days for a response, depending on the complexity of the request:\nMarketplace\nWhen submitting a request to the\nMarketplace\n, allow 1 - 2 business days to receive a response, as it may take the 3rd party developers who are receiving the request some additional time to analyze the request before getting back with an answer:\nWe do have limited staff that works through the weekends and most holidays, but note that our staff needs a break every once in a while too, but will be excited to respond to any requests as soon as they are available.\nPhone Support\nYes! To purchase a training sessions, click on the link below:\nBrilliant Directories Phone Training\nMy last training session was 25 minutes long, does the extra 5 minutes roll over to extend other training sessions?\nEach training session can be anywhere between 30 minutes to 1 hour in length, but if the full 30 minutes are not used in a given session, the remainder of the time does not roll over to additional sessions. To make the most of each session, we highly recommend preparing a list of questions ahead of time to maximize each session to its fullest.\nUrgent Tickets\nIn cases like these, feel free to send an email to\nsupport@brilliantdirectories.com\nwith \"\nURGENT\n\" in the subject line and the first support staff that is available to respond to the inquiry will do so. This will allow for quick support from a member of the support staff, but be aware that the team member that responds to the inquiry may not be aware of all of the specifics of the project so we may require more information.\nNote:\nUse the \"\nURGENT\n\" designation responsibly.  We absolutely understand the importance of each and every request that is submitted to us, but in order to make sure that everyone gets the urgent help when they need it, please only use this method of contact if the site is completely inaccessible, unusable, or is experiencing another related critical issue.  If we determine that certain users of the software are abusing this, we will have to filter all \"\nURGENT\n\" requests from those users to be treated as normal requests so that this channel can remain open and useful for its intended purpose for the larger user community.\nTicketing System for Websites\nFor a ticketing system to help your own website customers we recommend\nhttps://www.freshworks.com/freshdesk/\n, that is the one BD uses. Freshdesk alternatives:\nhttps://www.helpscout.com/blog/freshdesk-alternatives/\nUsing the Private Member Chat add-on is a workaround, as well:\nUtilize Private Member Chat to Provide Live Member Support\nWe are always happy to help!",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091356724/original/_PW5d68azBgtQmKsb2vNf7pYxhgkH10-Fg.png?1618442644",
+          "alt": null,
+          "position": 0,
+          "nearby_text": "Many questions have already been asked by other users of the software, and their responses can be found instantly by searching for the question in the \" What Do You Need Help With ?\" box at the top of"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091356782/original/Q7dPrn3t2Xfwjd6qW3Nbx8j2o_jqw_Yuzw.png?1618442707",
+          "alt": null,
+          "position": 1,
+          "nearby_text": "For all requests submitted to the Community Forum , as a ticket, or as an email, allow 1 - 2 business days for a response, depending on the complexity of the request:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12091356817/original/d_YTet0pBoPiZNFiDXUCuyCOrITITF2hMA.png?1618442787",
+          "alt": null,
+          "position": 2,
+          "nearby_text": "When submitting a request to the Marketplace , allow 1 - 2 business days to receive a response, as it may take the 3rd party developers who are receiving the request some additional time to analyze th"
+        }
+      ],
+      "content_hash": "5314b8b04e1147e9941cbfc6ae83f6913403a8f5fd221b462db3ede1e2abcca3",
+      "ingested_at": "2026-10-17T11:48:45.202351+00:00"
+    },
+    {
+      "article_id": "5000649894",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000649894-what-does-each-ticket-status-mean",
+      "title": "What Does Each Ticket Status Mean",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Open"
+        },
+        {
+          "level": "h2",
+          "text": "In Progress"
+        },
+        {
+          "level": "h2",
+          "text": "Responded"
+        },
+        {
+          "level": "h2",
+          "text": "Resolved"
+        },
+        {
+          "level": "h2",
+          "text": "Closed"
+        },
+        {
+          "level": "h2",
+          "text": "Pending"
+        }
+      ],
+      "body_text": "What Does Each Ticket Status Mean\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000649894\nIn the\nMy Support Tickets\nmodule, each ticket includes a\nStatus\nlabel so it’s easy to see where the request stands at a glance.\nUse the\nAll Statuses\ndropdown above the ticket list to filter by status and quickly focus on the tickets that matter right now.\nOpen\nIn Progress\nResponded\nResolved\nClosed\nOpen\nYour ticket has been sent, and is currently being worked on.\nIn Progress\nThis status is placed on a ticket when the development team is working on the resolution to what was reported in the ticket.\nResponded\nOur support team has replied with a resolution or follow up questions.\nResolved\nOnce a ticket is marked\nResolved\n, the issue is considered ready to close out. If anything is still pending, reply to the ticket and it will automatically reopen; after 48 hours in\nResolved\n, the ticket will move to\nClosed\n.\nClosed\nThe original issues that was submitted has been resolved and the ticket closed.\nPending\nPending\nmeans the ticket is currently on hold while additional information or next steps are needed before it can move forward.",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887591/original/g-D4OjOqfUM6-Pl7JhZ9Cahy_XCQvrvD1g.png?1771466322",
+          "alt": null,
+          "position": 0,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174888087/original/ZJK74-rq-cZ0dU9-AHrveKQaQxTEAO3RDQ.png?1771467551",
+          "alt": null,
+          "position": 1,
+          "nearby_text": "Open In Progress Responded Resolved Closed"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887772/original/PAoe5u_dx5lLEcau91sL9Sf2gCVUZOo-5w.png?1771466862",
+          "alt": null,
+          "position": 2,
+          "nearby_text": "Your ticket has been sent, and is currently being worked on."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887823/original/zRofBGkZGA8MpiV6XLs7UJTn0Da-JTYqQQ.png?1771467010",
+          "alt": null,
+          "position": 3,
+          "nearby_text": "This status is placed on a ticket when the development team is working on the resolution to what was reported in the ticket."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887808/original/NdwOu56LesyePHwI7-hgvhpXafj7m2ArHw.png?1771466921",
+          "alt": null,
+          "position": 4,
+          "nearby_text": "Our support team has replied with a resolution or follow up questions."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887799/original/JdeDZASMAaRqQKJearnyR4aTCx8tll_eYQ.png?1771466906",
+          "alt": null,
+          "position": 5,
+          "nearby_text": "Once a ticket is marked Resolved , the issue is considered ready to close out. If anything is still pending, reply to the ticket and it will automatically reopen; after 48 hours in Resolved , the tick"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887801/original/X9fF02eC_UaLGDc-ijpCULSd3A2FdVK03Q.png?1771466911",
+          "alt": null,
+          "position": 6,
+          "nearby_text": "The original issues that was submitted has been resolved and the ticket closed."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12174887775/original/9vlMThQdrmg8n7DWICYCeyVpXJDAJlA29w.png?1771466873",
+          "alt": null,
+          "position": 7,
+          "nearby_text": "Pending means the ticket is currently on hold while additional information or next steps are needed before it can move forward."
+        }
+      ],
+      "content_hash": "7fcdcb98e4c5cd4ccd2f9ff2ab4f5013c1268706bfbba1657cc25e9c5c64efbc",
+      "ingested_at": "2026-10-17T11:48:46.642788+00:00"
+    },
+    {
+      "article_id": "5000657865",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000657865-predictive-keyword-search",
+      "title": "Predictive Keyword Search",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Enabling the Add-On"
+        }
+      ],
+      "body_text": "Predictive Keyword Search\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000657865\nSearch functionality is a key element of any directory website… It’s how the users are able to find the information they need.\nThe Predictive Keyword Search add-on can help users find information on the website even faster. With this add-on, as a user begins typing their search term into the website’s search field they will instantly be presented with potential search results.\nHow To Get This Add-On\nWebsites with the VIP Add-Ons Club automatically have this add-on available:\nJoin The VIP Add-Ons Club\nPurchase Individually:\nPredictive Keyword Search Add-On\nEnabling the Add-On\nTo customize the auto-suggest on the website please follow these steps:\nGo to Developers Tools:\nClick on Autosuggest Settings:\nAuto-Suggest Settings\nRule Variable:\nThis is the variable that will be linked to the search box the admin would like to apply the auto-suggest rule to.\nThe admin can locate the current variable being used by hovering the mouse over the search box and inspecting the element. Here is a quick video that shows how to complete this.\nThese are the default options that we provide:\nWhen any of the default options is being edited or created, they all have the same setting options:\nUse a Class or ID:\nIt is always recommend to select \"Class\".\nEnable Auto-Suggest After How Many Characters:\nThis is the number of characters a website visitor needs to enter before the auto-suggest starts to show options.\nMaximum Auto-Suggest Limit:\nThe total number allowed to be shown. If there area total of 25 possible results, but the limit is 10, only ten lines will show(1 header and 9 results), respected the order that it was set in the \"Select the features the admin would like to be searched in the autosuggest rule\" section. Keep in mind that the number set here includes the heading of each section.\nExample:\nIf the maximum Autosuggest limit is set to 2\nIt will show the Header and just one listing.\nAuto-Suggest Rule Settings\nEnable Listings:\nThis decides whether or not listings will appear in the auto-suggest. The same setting is available for all features and categories as well.\nLimit:\nThe amount of listings that will display so long as the max limit has not already been reached.\nPhoto:\nThis allows the admin to decide whether or not a photo will display in the auto-suggest. We suggest turning this on for Listings and all features.\nLink:\nTurning this on will automatically take the visitor to the next page. Turning this off will auto-fill the box with that entry, but still allow the visitor to add a location. We suggest setting categories to \"no\" and the rest \"yes\".\nShow Header:\nThe \"Header\" is the main title for that section. The following image shows three features that have \"Show Header\" as \"Yes\".\nLocation:\nIf \"Yes\" is selected, the location for that member or data post will show in the auto-suggest. In the image above, \"Listings\" have this set to \"yes\".\nDetails\n: This will add a second line of information in the auto-suggest. The details vary on the item selected:\nListing Details = The top-level category\nSub-Categories Details = The top-level category. If it is a sub-sub, it will show the parent category (sub-level)\nAll Feature Details = They will show the name of the Feature. Some customers prefer to use this instead of the \"Show Header\" option.\nEditing The Order\nThe auto-suggest also allows the admin to easily change the order of items being shown in the auto-suggest.\nThe highlighted modules are the ones active on the rule that's being edited:\nIn order to restore the settings back to default, click on the Restore Button:\nThis tool will reset\nall\nthe settings to their default version and delete any updates the admin have completed so far.\nTo learn more about this add-on, please read this article:\nHow To Edit Keyword Search Autosuggest Settings For Member Searches",
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447705/original/MO8UE9DMqNGpwPTxPv8dkNZFpJk0G2PQLA.png?1630107474",
+          "alt": null,
+          "position": 0,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447698/original/XMwffWbkT0Xvo432CfqzoKzjXazkabyUOQ.png?1630107427",
+          "alt": null,
+          "position": 1,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/5033775196/original/blob1440439599892.gif?1440439611",
+          "alt": null,
+          "position": 2,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447732/original/bF9iJ6eZ4D05RwuPrj6_edS7Yfjs3W2-zg.png?1630107528",
+          "alt": null,
+          "position": 3,
+          "nearby_text": "These are the default options that we provide:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12118956367/original/CUjAROnYyA7KyAp4ZQuTGUGcgo3K3IiMCA.png?1671733677",
+          "alt": null,
+          "position": 4,
+          "nearby_text": "When any of the default options is being edited or created, they all have the same setting options:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119086796/original/5vl4aYAaUQPLKu8LNaGZHXl0W_WOenZBsg.png?1672168400",
+          "alt": null,
+          "position": 5,
+          "nearby_text": "Example: If the maximum Autosuggest limit is set to 2"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12119087135/original/x7M723z0wlml-JNdQmoPDxLeUCpHRMIeyA.png?1672168781",
+          "alt": null,
+          "position": 6,
+          "nearby_text": "It will show the Header and just one listing."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12086685851/original/xoFeXeZl7NF5oAFIn53s-JHs5P6GYN_3VA.png?1608734906",
+          "alt": null,
+          "position": 7,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447784/original/--FhxQfia9JAahVz2ug664v1yzZdGLv_-A.png?1630107934",
+          "alt": null,
+          "position": 8,
+          "nearby_text": "Show Header: The \"Header\" is the main title for that section. The following image shows three features that have \"Show Header\" as \"Yes\"."
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075252347/original/ylWjmcI79liIL7FiexS-0UPUdchDT4_S2A.gif?1584457149",
+          "alt": null,
+          "position": 9,
+          "nearby_text": ""
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12075252142/original/Sv_4CP7qAeFT8Kv1yy94Jt8fdXOYp-dC-w.png?1584456928",
+          "alt": null,
+          "position": 10,
+          "nearby_text": "The highlighted modules are the ones active on the rule that's being edited:"
+        },
+        {
+          "url": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12097447789/original/3H4ZnzpcTByfTgvm-ZLImGevpBGK41Qg3g.png?1630107990",
+          "alt": null,
+          "position": 11,
+          "nearby_text": "In order to restore the settings back to default, click on the Restore Button:"
+        }
+      ],
+      "content_hash": "5827efe76f5b42e016522ecaef1db0b33d2bc258ad98976b358fe42643b40cf8",
+      "ingested_at": "2026-10-17T11:48:48.112735+00:00"
+    },
+    {
+      "article_id": "5000660016",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000660016-troubleshooting-member-search-result-issues-overview",
+      "title": "Troubleshooting: Member Search Result Issues Overview",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Different Types Of Member Search Issues"
+        }
+      ],
+      "body_text": "Troubleshooting: Member Search Result Issues Overview\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000660016\nBefore diving into possible reasons why the member may not be appearing in the search result conducted, we highly recommend going over the article down below, as the member itself may not be active on the site or maybe in a membership plan that is not searchable:\nTroubleshooting: Listing is not Public or Active\nAnother possible setting that will have an effect on which members will display in search results would be the Require Complete Profiles setting. When this setting is enabled, certain members will be hidden from search results. For more information regarding this setting, please refer to the article down below:\nHow To Hide Incomplete Profiles On Member Search Results\nAfter making sure the member is indeed active on the site and not hidden due to the Require Complete Profiles setting, the troubleshooting steps down below can be used.\nDifferent Types Of Member Search Issues\nThe Brilliant Directories software offers a few different ways to conduct a member search and these can be categorized as Location Search, Keyword Search and Category Search.\nWe created 3 dedicated articles for each type of search result issue to share a detailed overview of each of them:\nLocation Search Issues\nKeyword Search Issues\nCategory Search Issues",
+      "images": [],
+      "content_hash": "a8c0d030005832f2b4449737e02f17479e577fbd241392b716c7c10f90d9bce2",
+      "ingested_at": "2026-10-17T11:48:49.621632+00:00"
+    },
+    {
+      "article_id": "5000662041",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000662041-how-search-result-ordering-and-distance-sorting-work",
+      "title": "How Search Result Ordering and Distance Sorting Work",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Overview"
+        },
+        {
+          "level": "h2",
+          "text": "1 — Searching by State, Country, or Region Does Not Produce Distance-Sorted Results"
+        },
+        {
+          "level": "h2",
+          "text": "2 — Results Are Sorted by Distance from the Searched Location, Not the Visitor's Physical Location"
+        },
+        {
+          "level": "h2",
+          "text": "3 — Members on Higher-Priority Plans with Service Areas Can Rank Ahead of Geographically Closer Members"
+        }
+      ],
+      "body_text": "How Search Result Ordering and Distance Sorting Work\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000662041\nOverview\nThe following explains three search result behaviors that are commonly misunderstood. Each section describes how the system is designed to work and why.\n1 — Searching by State, Country, or Region Does Not Produce Distance-Sorted Results\nWhen a visitor searches using a\nstate, country, province, or county name,\nfor example, \"Texas,\" \"California,\" or \"United Kingdom\", the system does not sort results by distance. This is by design.\nDistance sorting only activates when the searched location resolves to a\nspecific point on a map,\nsuch as a\ncity name\n,\nzip code\n,\npostal code\n, or\nstreet address\n. These location types have a precise latitude and longitude coordinate, which the system uses as the reference point for calculating member distances.\n⚠ NOTE — If Distance Sorting Is Not Appearing for City or Zip Code Searches:\nIf distance is not calculating correctly even when a specific city or zip code is searched, verify that the members in the results have been geocoded. Members without geocoded coordinates will not have distance values and will not sort correctly by distance, regardless of the location searched.\nReference:\nHow To Geocode Members\n2 — Results Are Sorted by Distance from the Searched Location, Not the Visitor's Physical Location\nWhen a visitor searches for a location, the system returns members sorted by their proximity to the\nsearched location,\nnot by their proximity to the visitor's current physical position.\nFor example, a visitor located in Chicago who searches for\n\"90210\"\nwill see members sorted by their distance from the Beverly Hills area, not from Chicago. This is the intended behavior.\nThis design allows a visitor to search for businesses or listings near a hotel, a client's office, or any location other than their own. Sorting by the visitor's physical location instead would make location-based searching impractical for any use case where the visitor and the searched area are not in the same place.\n3 — Members on Higher-Priority Plans with Service Areas Can Rank Ahead of Geographically Closer Members\nWhen a Membership Plan is configured to allow members to select service areas, those members will appear in search results for their selected service area locations regardless of where they are physically located. If that plan also carries a higher search result priority than another plan on the site, its members will rank above geographically closer members on the lower-priority plan.\nExample:\nA member physically located in California and New York, as a selected service area. This member will appear in the New York search results. If that member's plan has a higher search priority than a member who is physically located in New York on a lower-tier plan, the California-based member will rank above them.\nThis behavior is the result of two deliberate configuration choices on the site:\nThe Membership Plan has\nservice area\nselection enabled.\nThe Membership Plan has a higher\nsearch result priority\nthan the plan being outranked.",
+      "images": [],
+      "content_hash": "5bb2ea9bcee51e6d8c802aef4ba251fa9887e0acfbf85936594b59d3be2330bd",
+      "ingested_at": "2026-10-17T11:48:51.035223+00:00"
+    },
+    {
+      "article_id": "5000665570",
+      "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000665570-ssl-https-faq",
+      "title": "SSL / HTTPS FAQ",
+      "headings": [
+        {
+          "level": "h2",
+          "text": "Why would I want to secure my site with SSL / HTTPS?"
+        },
+        {
+          "level": "h2",
+          "text": "What do I get when I order the SSL / HTTPS Add-On?"
+        },
+        {
+          "level": "h2",
+          "text": "How to order the SSL / HTTPS installation service for the site"
+        },
+        {
+          "level": "h2",
+          "text": "FAQ"
+        }
+      ],
+      "body_text": "SSL / HTTPS FAQ\nLink:\nhttps://support.brilliantdirectories.com/support/solutions/articles/5000665570\nWhy would I want to secure my site with SSL / HTTPS?\nThere are many benefits to securing the website with an SSL Certificate / HTTPS:\nAll payment pages can use their own domain name, rather than the default secured \"securemypayment.com\" domain name that processes payments by default\nIncreased confidence from the site's member's and visitors\nPotentially higher rankings from Google and other search engines (more information about\nGoogle's use of HTTPS as a ranking signal\nhere)\nOverall increased security for all non-billing information submitted on the site (all billing information is already secured by SSL / HTTPS by default for all sites)\nThe Admin area of the site is automatically secured with HTTPS\nIf the admin would like the site to receive all of the benefits above, we offer an\nSSL Security Add-On\n.\nWhat do I get when I order the SSL / HTTPS Add-On?\nWhen purchasing this service, the admin will receive the following:\nOne-click configuration and Installation of the SSL certificate on the website\nAn update to the entire website to enable the use HTTPS for all pages, including the Member Dashboard and Admin area\nIf the site has the SSL add-on enabled, the system will automatically proceed with SSL installation after a domain name change without prompting the user, ensuring the website has a secure connection\nSetup of the billing pages of the site to use their own domain instead of SecureMyPayment.com\nAn update to the server files to redirect all old HTTP pages to the new HTTPS pages\nThe SSL Certificate costs $95 per year to keep the SSL / HTTPS security active\n.  If the admin provided and installed their own 3rd party SSL Certificate through cPanel, the admin would only need to pay $39 per year for the ongoing maintenance of the service.\nHow to order the SSL / HTTPS installation service for the site\nOrder the SSL Security Add-On here:\nhttps://www.brilliantdirectories.com/ssl-secure-website\nFAQ\nI already purchased an SSL Certificate from another provider, can I use this one instead?\nYes!  The can install their own certificate through cPanel (Admin area >> Developers >> cPanel Dashboard).  Once the admin has successfully installed their own certificate, simply\nsubmit a ticket\nrequesting that we enable all of the settings for their site to route traffic to HTTPS.\nIf I provide my own SSL Certificate, does this change the cost in any way?\nThere is no charge if the admin purchase and install their 3rd party SSL Certificate on theirown.  Please note that we cannot provide support for the self-installation of 3rd party SSL Certificates, but our Support Team is able to assist with any issues encountered with the\nSSL Security Add-On\npurchased directly through Brilliant Directories.\nThe domain has CAA records. Does anything need to change for the SSL certificate to install?\nA CAA record is an optional DNS record that lists which certificate authorities are allowed to issue SSL certificates for a domain. Most domains have none, and nothing needs to be done. If the domain has any CAA records, one of them must allow\nsectigo.com\n, the certificate authority behind the certificates installed by the SSL Security Add-On. Without it, the certificate cannot be issued and the site stays on HTTP.\nTo fix this, add one more CAA record at the domain's DNS host, alongside the existing CAA records. Do not delete the existing ones:\nType:\nCAA\nName:\n@ (the root domain)\nFlag:\n0\nTag:\nissue\nValue:\nsectigo.com\nOnce the record is saved, the certificate is issued automatically during the next nightly certificate check.\nCan I use Brilliant Directories Credits for this service?\nYes, credits may be used to purchase this or any full-priced Add-On.",
+      "images": [],
+      "content_hash": "0723aa0954c1d1fffc61d625de0a970c634f73c9de9636d15e81f68f82f28c3d",
+      "ingested_at": "2026-10-17T11:48:52.507752+00:00"
+    }
+  ],
+  "failures": []
+}

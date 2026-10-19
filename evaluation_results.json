@@ -1,0 +1,160 @@
+[
+  {
+    "question": "how do refunds work",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 5.3,
+    "sources": [
+      "How Refunds work",
+      "Setting Up PayFast (South Africa) As Your Payment Gateway"
+    ]
+  },
+  {
+    "question": "how are cancellations handled from the member's side",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 3.8,
+    "sources": [
+      "Cancellations from Member's Perspective",
+      "Settings » Advanced Settings"
+    ]
+  },
+  {
+    "question": "how do I turn on staging mode",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 3.1,
+    "sources": [
+      "How To Activate \"Staging Mode\" / \"Coming Soon\" Splash Page as the Homepage",
+      "Emails » Forms Inbox"
+    ]
+  },
+  {
+    "question": "how do I manually approve new member signups",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 3.5,
+    "sources": [
+      "Manually Approve New Member Signups",
+      "Finance » Membership Plans - Sign Ups & Upgrades"
+    ]
+  },
+  {
+    "question": "can I send a mass email campaign",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 4.0,
+    "sources": [
+      "Can I Send A Mass Email Campaign Using Brilliant Directories?",
+      "Emails » Send Newsletter » New Email Newsletter"
+    ]
+  },
+  {
+    "question": "how do I set up payment settings",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 4.8,
+    "sources": [
+      "Finance » Payment Settings - Setting Up A Payment Gateway",
+      "Setup Essentials - Required Steps to Setup the Directory",
+      "Setting Up PayPal Payflow"
+    ]
+  },
+  {
+    "question": "how do I log in as a member",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 4.4,
+    "sources": [
+      "How to Login As Member"
+    ]
+  },
+  {
+    "question": "how do I edit the SEO of the member search results page",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 3.4,
+    "sources": [
+      "Editing The SEO Of Member Search Results Pages"
+    ]
+  },
+  {
+    "question": "how do I forward emails to another address",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 4.6,
+    "sources": [
+      "Email Forwarders",
+      "How To Setup A Third Party Email Application To Access The Email Accounts"
+    ]
+  },
+  {
+    "question": "how do I add a code snippet to every page",
+    "expected": "answer",
+    "answered": true,
+    "correct": true,
+    "seconds": 4.4,
+    "sources": [
+      "How To Add A Snippet Of Code To Every Page Of A Site in The HEAD Section",
+      "Settings » Design Settings Index",
+      "How to Create a New Static Page"
+    ]
+  },
+  {
+    "question": "what is the capital of France",
+    "expected": "refuse",
+    "answered": false,
+    "correct": true,
+    "seconds": 0.8,
+    "sources": []
+  },
+  {
+    "question": "give me a pizza recipe",
+    "expected": "refuse",
+    "answered": false,
+    "correct": true,
+    "seconds": 0.5,
+    "sources": []
+  },
+  {
+    "question": "who is the president of the United States",
+    "expected": "refuse",
+    "answered": false,
+    "correct": true,
+    "seconds": 0.6,
+    "sources": []
+  },
+  {
+    "question": "help",
+    "expected": "refuse",
+    "answered": false,
+    "correct": true,
+    "seconds": 0.4,
+    "sources": []
+  },
+  {
+    "question": "can you write me a python script",
+    "expected": "refuse",
+    "answered": false,
+    "correct": true,
+    "seconds": 0.5,
+    "sources": []
+  },
+  {
+    "question": "what is the price of bitcoin today",
+    "expected": "refuse",
+    "answered": false,
+    "correct": true,
+    "seconds": 0.4,
+    "sources": []
+  }
+]
